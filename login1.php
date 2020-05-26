@@ -7,6 +7,15 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
 <body>
+<img src="maxresdefault (1).jpg">
+<style>
+img{
+	opacity: 80%;
+	width: 100%;
+	z-index:-1;
+	position: absolute;
+}
+</style>
 <br>
 <br>
 <div class="container">
